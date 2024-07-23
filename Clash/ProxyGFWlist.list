@@ -6308,3 +6308,7 @@ DOMAIN-SUFFIX,ocnttv.com
 # VikACG
 DOMAIN-SUFFIX,vikacg.com
 DOMAIN-SUFFIX,picjs.xyz
+
+# Agoda
+DOMAIN-SUFFIX,agoda.com
+DOMAIN-SUFFIX,agoda.net
