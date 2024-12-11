@@ -1,7 +1,10 @@
-# Agoda
+# Travel
 DOMAIN-SUFFIX,agoda.com
 DOMAIN-SUFFIX,agoda.net
 DOMAIN-SUFFIX,klook.com
 DOMAIN-SUFFIX,trip.com
 DOMAIN-SUFFIX,cathaypacific.com
 DOMAIN-SUFFIX,asiamiles.com
+
+# Apple AI
+DOMAIN-SUFFIX,apple-relay.apple.com
