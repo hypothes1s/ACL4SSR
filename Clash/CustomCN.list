@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,binance.vision
 DOMAIN-KEYWORD,binanceapi
 DOMAIN-KEYWORD,binancezh
+PROCESS-NAME,Binance Helper
+PROCESS-NAME,*Binance*
