@@ -198,8 +198,6 @@ payload:
   - DOMAIN-SUFFIX,gepush.com
   - DOMAIN-SUFFIX,getui.com
   - DOMAIN-SUFFIX,glispa.com
-  - DOMAIN-SUFFIX,go-mpulse
-  - DOMAIN-SUFFIX,go-mpulse.net
   - DOMAIN-SUFFIX,godloveme.cn
   - DOMAIN-SUFFIX,gridsum.com
   - DOMAIN-SUFFIX,gridsumdissector.cn
@@ -343,7 +341,6 @@ payload:
   - DOMAIN-SUFFIX,th7.cn
   - DOMAIN-SUFFIX,thoughtleadr.com
   - DOMAIN-SUFFIX,tianmidian.com
-  - DOMAIN-SUFFIX,tiqcdn.com
   - DOMAIN-SUFFIX,touclick.com
   - DOMAIN-SUFFIX,trafficjam.cn
   - DOMAIN-SUFFIX,trafficmp.com
